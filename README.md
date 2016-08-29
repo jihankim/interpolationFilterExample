@@ -1,1 +1,1 @@
-# interpolationFilterExample
+# Interpolation Filter Example
